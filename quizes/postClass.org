@@ -1,0 +1,39 @@
+#+TITLE: Post-Class Quiz: Weather Visualization in Python GUI Applications
+
+*Instructions:* Select the best answer for each question. Use what you've learned about class design, Tkinter, matplotlib, and reusable components.
+
+1. What is the main advantage of using a separate class like `WeatherChartComponent` in a Python GUI project?
+A) It makes the GUI look more colorful  
+B) It avoids importing matplotlib  
+C) It promotes code reuse and cleaner organization  
+D) It eliminates the need for Tkinter frames  
+
+2. In a line chart created using matplotlib, which argument controls the appearance of circular markers on data points?
+A) `bar_width`  
+B) `linewidth`  
+C) `marker`  
+D) `alpha`  
+
+3. Which method is used in Tkinter to insert a matplotlib chart into a GUI frame?
+A) `embed_chart()`  
+B) `canvas.show()`  
+C) `FigureCanvasTkAgg().pack()`  
+D) `display_chart()`  
+
+4. In the weather dashboard project, what is the purpose of `self.chart_frame.winfo_children()` in `clear_chart_frame()`?
+A) It removes the chart background  
+B) It finds all subplots in a figure  
+C) It lists all widgets in the chart frame for cleanup  
+D) It returns temperature and humidity data  
+
+5. If you want to annotate each data point in a bar chart with a numeric value, which method should you use?
+A) `ax.annotate()` inside a loop  
+B) `ax.plot_text()`  
+C) `canvas.annotate_all()`  
+D) `fig.label_data()`  
+
+6. Which of the following is **true** about `FigureCanvasTkAgg` in the GUI context?
+A) It is a Tkinter-native widget for drawing bar charts  
+B) It allows embedding matplotlib figures in a Tkinter frame  
+C) It replaces the need for `plt.show()`  
+D) Both B and C  

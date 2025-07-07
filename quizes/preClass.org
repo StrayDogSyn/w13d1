@@ -1,0 +1,31 @@
+#+TITLE: Matplotlib Weather Chart Quiz
+
+Which matplotlib chart type is best for showing temperature changes over time?
+A) Bar chart  
+B) Pie chart  
+C) Line chart  
+D) Histogram  
+
+When displaying daily precipitation amounts for a week, which chart type is most appropriate?
+A) Line chart  
+B) Bar chart  
+C) Scatter plot  
+D) Box plot  
+
+What matplotlib function is used to create a basic line chart?
+A) plt.bar()  
+B) plt.scatter()  
+C) plt.plot()  
+D) plt.hist()  
+
+Which matplotlib feature helps make weather charts more readable by adding titles and axis labels?
+A) Color schemes  
+B) Data points  
+C) Annotations and labels  
+D) Grid lines only  
+
+When creating weather visualizations for a GUI application, what is most important?
+A) Using as many colors as possible  
+B) Making charts as large as possible  
+C) Clear, readable displays that convey information effectively  
+D) Including every possible data point  

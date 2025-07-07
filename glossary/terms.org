@@ -1,0 +1,17 @@
+1. *Data Visualization*: The graphical representation of information and data using visual elements
+2. *Line Chart*: A chart that displays data points connected by straight lines, ideal for showing trends over time
+3. *Bar Chart*: A chart that presents data with rectangular bars, good for comparing discrete categories
+4. *Scatter Plot*: A chart using dots to represent values, useful for showing relationships between variables
+5. *Time Series Plot*: A line chart specifically designed to show data changes over time periods
+6. *Dashboard*: A visual display combining multiple charts and information in one organized view
+7. *Chart Customization*: Modifying colors, styles, labels, and other visual elements to improve readability
+8. *Axis Labels*: Text descriptions that explain what each axis represents in a chart
+9. *Legend*: A guide that explains the meaning of different colors, symbols, or lines in a chart
+10. *Grid Lines*: Horizontal and vertical lines that help readers estimate values more accurately
+11. *Figure and Axes*: Matplotlib concepts where Figure is the overall container and Axes are individual plot areas
+12. *Color Mapping*: Assigning specific colors to represent different weather conditions or value ranges
+13. *Plot Styling*: Techniques for making charts visually appealing and professional-looking
+14. *Data Aggregation*: Combining multiple data points to create summary visualizations
+15. *Chart Integration*: Embedding matplotlib charts into GUI applications like Tkinter
+    
+

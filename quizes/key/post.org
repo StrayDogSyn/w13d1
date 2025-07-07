@@ -1,0 +1,7 @@
+
+1. C) It promotes code reuse and cleaner organization  
+2. C) `marker`  
+3. C) `FigureCanvasTkAgg().pack()`  
+4. C) It lists all widgets in the chart frame for cleanup  
+5. A) `ax.annotate()` inside a loop  
+6. D) Both B and C  

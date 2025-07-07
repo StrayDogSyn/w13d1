@@ -1,0 +1,5 @@
+1. C) Line chart  
+2. B) Bar chart  
+3. C) plt.plot()  
+4. C) Annotations and labels  
+5. C) Clear, readable displays that convey information effectively  
