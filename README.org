@@ -1,4 +1,0 @@
-#+TITLE: W13 D1 Agenda
-#+DATE: \today
-
-This has the material for class on Monday July 7th.
